@@ -9,12 +9,17 @@
 
 ### About
 
-Final-year **B.E. Artificial Intelligence & Data Science** student at Dr. D. Y. Patil Institute of Engineering, Management & Research, Pune.
-I build machine-learning projects end to end: from cleaning data and comparing models to explaining predictions and turning them into usable tools.
+I'm a final-year **B.E. Artificial Intelligence & Data Science** student at Dr. D. Y. Patil Institute of Engineering, Management & Research, Pune, focused on **applied machine learning**.
 
-- Currently building **CapacityIQ**, an AI decision-support system for hospital emergency-department planning
-- Interested in explainable AI and applied machine learning
-- Open to internships and entry-level roles in Data Science / ML
+I like working on the full lifecycle of an ML project: cleaning real-world data, choosing the right model and metric, **explaining predictions**, and shipping the result as a script, API or dashboard that someone can actually use.
+
+- 🏥 Building **CapacityIQ**, an AI system that helps hospital emergency departments plan beds and staff
+- 📈 Built ML models for **loan approval** and **heart disease prediction** (86%+ accuracy)
+- 🛠️ Work mainly with **Python, SQL, scikit-learn, Prophet, FastAPI and Streamlit**
+- 🔍 Interested in explainable AI, forecasting and healthcare analytics
+- 🌱 Currently learning model deployment and LLM integration
+- 🎓 Graduating in **2027**
+- 💼 Open to **internships and entry-level roles** in Data Science and Machine Learning, and always happy to collaborate on data projects
 
 ### Tech Stack
 
