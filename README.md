@@ -14,11 +14,9 @@ I'm a final-year **B.E. Artificial Intelligence & Data Science** student at Dr. 
 I like working on the full lifecycle of an ML project: cleaning real-world data, choosing the right model and metric, **explaining predictions**, and shipping the result as a script, API or dashboard that someone can actually use.
 
 - 🏥 Building **CapacityIQ**, an AI system that helps hospital emergency departments plan beds and staff
-- 📈 Built ML models for **loan approval** and **heart disease prediction** (86%+ accuracy)
 - 🛠️ Work mainly with **Python, SQL, scikit-learn, Prophet, FastAPI and Streamlit**
 - 🔍 Interested in explainable AI, forecasting and healthcare analytics
 - 🌱 Currently learning model deployment and LLM integration
-- 🎓 Graduating in **2027**
 - 💼 Open to **internships and entry-level roles** in Data Science and Machine Learning, and always happy to collaborate on data projects
 
 ### Tech Stack
