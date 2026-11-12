@@ -33,12 +33,3 @@ I like working on the full lifecycle of an ML project: cleaning real-world data,
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Projects
-
-| Project | Description | Result |
-|---|---|---|
-| **CapacityIQ** *(final-year project, in progress)* | Emergency-department planning system: arrival forecasting, admission prediction, bed allocation, staffing, SHAP explanations and an LLM briefing in one Streamlit dashboard | AUC 0.84 on 560k visits |
-| [**CreditWise**](https://github.com/pruthvicodes/Creditwise_Loan_Approval) | Loan approval prediction comparing Logistic Regression, KNN and Naive Bayes | 86.5% accuracy |
-| [**Heart Disease Prediction**](https://github.com/pruthvicodes/Heart-disease-prediction) | Heart disease prediction from 13 clinical features (UCI dataset) | 86.8% accuracy, 90% recall |
-| [**Smart Irrigation System**](https://github.com/pruthvicodes/Smart-Irrigation-System) *(first-year project)* | Arduino system that waters plants automatically using a soil-moisture sensor, relay-driven pump and LCD | Working hardware prototype |
